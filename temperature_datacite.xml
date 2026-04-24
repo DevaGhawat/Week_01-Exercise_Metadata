@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4">
+  <identifier identifierType="URL">https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data</identifier>
+
+  <creators>
+    <creator>
+      <creatorName>Berkeley Earth</creatorName>
+    </creator>
+  </creators>
+
+  <titles>
+    <title>Global Surface Temperature Data</title>
+  </titles>
+
+  <publisher>Kaggle</publisher>
+  <publicationYear>2015</publicationYear>
+
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+
+  <subjects>
+    <subject>Climate</subject>
+    <subject>Temperature</subject>
+    <subject>Global warming</subject>
+    <subject>Time series</subject>
+  </subjects>
+
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">
+      https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
+    </alternateIdentifier>
+  </alternateIdentifiers>
+
+  <descriptions>
+    <description descriptionType="Abstract">
+      Historical global temperature dataset including land temperatures by country and city from 1750 onwards.
+    </description>
+  </descriptions>
+</resource>
