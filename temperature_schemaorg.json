@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Global Surface Temperature Data",
+  "description": "Historical global temperature dataset including land temperatures by country and city from 1750 onwards.",
+  "url": "https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data",
+  "creator": {
+    "@type": "Organization",
+    "name": "Berkeley Earth"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kaggle"
+  },
+  "datePublished": "2015",
+  "keywords": [
+    "Climate",
+    "Temperature",
+    "Global warming",
+    "Time series",
+    "Environment"
+  ],
+  "license": "https://www.kaggle.com/terms"
+}
